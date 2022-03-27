@@ -1,4 +1,4 @@
-# Project Localizations
+# Project-Localizations
 This is a dedicated repo for all my iOS project localizations
 
 ## How can I translate?
@@ -11,7 +11,7 @@ It is very simple:
     - Copy the `base.lproj` folder for the tweak(s)
     - Rename the folder with your language's ISO-639-1 Code (Check tables below for supported language codes. [non-regional languages](#non_regional_languages), [regional languages](#regional_languages))
     - Translate each file by changing the text after each `=`
-    - Pay attention to special characters such as `\(character), %(character), etc` check [special format specifiers](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Strings/Articles/formatSpecifiers.html) for a complete list
+    - Pay attention to special characters such as `\(character), %(character), etc` these need to remain unchanged to ensure formatting works correctly. (Check [special format specifiers](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Strings/Articles/formatSpecifiers.html) for a complete list)
 - Make a Pull Request with your localizations, or send them to me at [support@creaturecoding.com](mailto:support@creaturecoding.com?subject=Localizations%20(PROJECT_NAME))
 - If you would like credit attribution for your contribution, please include the name and (optional) contact link you would like to be credited with in your email or pull request comment
 
@@ -177,73 +177,73 @@ Thank you!
 
 | **Regional Language** | **ISO-639-1 Code** | **lproj Name** |
 |---|---|---|
-| Arabic (U.A.E.) | ar-ae | ar-AE.lproj |
-| Arabic (Bahrain) | ar-bh | ar-BH.lproj |
-| Arabic (Algeria) | ar-dz | ar-DZ.lproj |
-| Arabic (Egypt) | ar-eg | ar-EG.lproj |
-| Arabic (Iraq) | ar-iq | ar-IQ.lproj |
-| Arabic (Jordan) | ar-jo | ar-JO.lproj |
-| Arabic (Kuwait) | ar-kw | ar-KW.lproj |
-| Arabic (Lebanon) | ar-lb | ar-LB.lproj |
-| Arabic (libya) | ar-ly | ar-LY.lproj |
-| Arabic (Morocco) | ar-ma | ar-MA.lproj |
-| Arabic (Oman) | ar-om | ar-OM.lproj |
-| Arabic (Qatar) | ar-qa | ar-QA.lproj |
-| Arabic (Saudi Arabia) | ar-SA | ar-sa.lproj |
-| Arabic (Syria) | ar-sy | ar-SY.lproj |
-| Arabic (Tunisia) | ar-tn | ar-TN.lproj |
-| Arabic (Yemen) | ar-ye | ar-YE.lproj |
-| German (Austria) | de-at | de-AT.lproj |
-| German (Switzerland) | de-ch | de-CH.lproj |
-| German (Liechtenstein) | de-li | de-LI.lproj |
-| German (Luxembourg) | de-lu | de-LU.lproj |
-| English (Australia) | en-au | en-AU.lproj |
-| English (Belize) | en-bz | en-BZ.lproj |
-| English (Canada) | en-ca | en-CA.lproj |
-| English (United Kingdom) | en-gb | en-GB.lproj |
-| English (Ireland) | en-ie | en-IE.lproj |
-| English (Jamaica) | en-jm | en-JM.lproj |
-| English (New Zealand) | en-nz | en-NZ.lproj |
-| English (Philippines) | en-ph | en-PH.lproj |
-| English (Trinidad) | en-tt | en-TT.lproj |
-| English (United States) | en-us | en-US.lproj |
-| English (South Africa) | en-za | en-ZA.lproj |
-| English (Zimbabwe) | en-zw | en-ZW.lproj |
-| Spanish (Argentina) | es-ar | es-AR.lproj |
-| Spanish (Bolivia) | es-bo | es-BO.lproj |
-| Spanish (Chile) | es-cl | es-CL.lproj |
-| Spanish (Colombia) | es-co | es-CO.lproj |
-| Spanish (Costa Rica) | es-cr | es-CR.lproj |
-| Spanish (Dominican Republic) | es-do | es-DO.lproj |
-| Spanish (Ecuador) | es-ec | es-EC.lproj |
-| Spanish (España) | es-es | es-ES.lproj |
-| Spanish (Guatemala) | es-gt | es-GT.lproj |
-| Spanish (Honduras) | es-hn | es-HN.lproj |
-| Spanish (Mexico) | es-mx | es-MX.lproj |
-| Spanish (Nicaragua) | es-ni | es-NI.lproj |
-| Spanish (Panama) | es-pa | es-PA.lproj |
-| Spanish (Peru) | es-pe | es-PE.lproj |
-| Spanish (Puerto Rico) | es-pr | es-PR.lproj |
-| Spanish (Paraguay) | es-py | es-PY.lproj |
-| Spanish (El Salvador) | es-sv | es-SV.lproj |
-| Spanish (United States) | es-us | es-US.lproj |
-| Spanish (Uruguay) | es-uy | es-UY.lproj |
-| Spanish (Venezuela) | es-ve | es-VE.lproj |
-| French (Belgium) | fr-be | fr-BE.lproj |
-| French (Canada) | fr-ca | fr-CA.lproj |
-| French (Switzerland) | fr-ch | fr-CH.lproj |
-| French (Luxembourg) | fr-lu | fr-LU.lproj |
-| French (Monaco) | fr-mc | fr-MC.lproj |
-| Italian (Switzerland) | it-ch | it-CH.lproj |
-| Norwegian (Bokmal) | nb-no | nb-NO.lproj |
-| Dutch (Belgium) | nl-be | nl-BE.lproj |
-| Norwegian | nn-no | nn-NO.lproj |
-| Portuguese (Brazil) | pt-br | pt-BR.lproj |
-| Romanian (Moldova) | ro-md | ro-MD.lproj |
-| Russian (Moldova) | ru-md | ru-MD.lproj |
-| Swedish (Finland) | sv-fi | sv-FI.lproj |
-| Chinese (China) | zh-cn | zh-CN.lproj |
-| Chinese (Hong Kong SAR) | zh-hk | zh-HK.lproj |
-| Chinese (Macau SAR) | zh-mo | zh-MO.lproj |
-| Chinese (Singapore) | zh-sg | zh-SG.lproj |
-| Chinese (Taiwan) | zh-tw | zh-TW.lproj |
+| Arabic (U.A.E.) | ar-ae | ar_AE.lproj |
+| Arabic (Bahrain) | ar-bh | ar_BH.lproj |
+| Arabic (Algeria) | ar-dz | ar_DZ.lproj |
+| Arabic (Egypt) | ar-eg | ar_EG.lproj |
+| Arabic (Iraq) | ar-iq | ar_IQ.lproj |
+| Arabic (Jordan) | ar-jo | ar_JO.lproj |
+| Arabic (Kuwait) | ar-kw | ar_KW.lproj |
+| Arabic (Lebanon) | ar-lb | ar_LB.lproj |
+| Arabic (libya) | ar-ly | ar_LY.lproj |
+| Arabic (Morocco) | ar-ma | ar_MA.lproj |
+| Arabic (Oman) | ar-om | ar_OM.lproj |
+| Arabic (Qatar) | ar-qa | ar_QA.lproj |
+| Arabic (Saudi Arabia) | ar-SA | ar_sa.lproj |
+| Arabic (Syria) | ar-sy | ar_SY.lproj |
+| Arabic (Tunisia) | ar-tn | ar_TN.lproj |
+| Arabic (Yemen) | ar-ye | ar_YE.lproj |
+| German (Austria) | de-at | de_AT.lproj |
+| German (Switzerland) | de-ch | de_CH.lproj |
+| German (Liechtenstein) | de-li | de_LI.lproj |
+| German (Luxembourg) | de-lu | de_LU.lproj |
+| English (Australia) | en-au | en_AU.lproj |
+| English (Belize) | en-bz | en_BZ.lproj |
+| English (Canada) | en-ca | en_CA.lproj |
+| English (United Kingdom) | en-gb | en_GB.lproj |
+| English (Ireland) | en-ie | en_IE.lproj |
+| English (Jamaica) | en-jm | en_JM.lproj |
+| English (New Zealand) | en-nz | en_NZ.lproj |
+| English (Philippines) | en-ph | en_PH.lproj |
+| English (Trinidad) | en-tt | en_TT.lproj |
+| English (United States) | en-us | en_US.lproj |
+| English (South Africa) | en-za | en_ZA.lproj |
+| English (Zimbabwe) | en-zw | en_ZW.lproj |
+| Spanish (Argentina) | es-ar | es_AR.lproj |
+| Spanish (Bolivia) | es-bo | es_BO.lproj |
+| Spanish (Chile) | es-cl | es_CL.lproj |
+| Spanish (Colombia) | es-co | es_CO.lproj |
+| Spanish (Costa Rica) | es-cr | es_CR.lproj |
+| Spanish (Dominican Republic) | es-do | es_DO.lproj |
+| Spanish (Ecuador) | es-ec | es_EC.lproj |
+| Spanish (España) | es-es | es_ES.lproj |
+| Spanish (Guatemala) | es-gt | es_GT.lproj |
+| Spanish (Honduras) | es-hn | es_HN.lproj |
+| Spanish (Mexico) | es-mx | es_MX.lproj |
+| Spanish (Nicaragua) | es-ni | es_NI.lproj |
+| Spanish (Panama) | es-pa | es_PA.lproj |
+| Spanish (Peru) | es-pe | es_PE.lproj |
+| Spanish (Puerto Rico) | es-pr | es_PR.lproj |
+| Spanish (Paraguay) | es-py | es_PY.lproj |
+| Spanish (El Salvador) | es-sv | es_SV.lproj |
+| Spanish (United States) | es-us | es_US.lproj |
+| Spanish (Uruguay) | es-uy | es_UY.lproj |
+| Spanish (Venezuela) | es-ve | es_VE.lproj |
+| French (Belgium) | fr-be | fr_BE.lproj |
+| French (Canada) | fr-ca | fr_CA.lproj |
+| French (Switzerland) | fr-ch | fr_CH.lproj |
+| French (Luxembourg) | fr-lu | fr_LU.lproj |
+| French (Monaco) | fr-mc | fr_MC.lproj |
+| Italian (Switzerland) | it-ch | it_CH.lproj |
+| Norwegian (Bokmal) | nb-no | nb_NO.lproj |
+| Dutch (Belgium) | nl-be | nl_BE.lproj |
+| Norwegian | nn-no | nn_NO.lproj |
+| Portuguese (Brazil) | pt-br | pt_BR.lproj |
+| Romanian (Moldova) | ro-md | ro_MD.lproj |
+| Russian (Moldova) | ru-md | ru_MD.lproj |
+| Swedish (Finland) | sv-fi | sv_FI.lproj |
+| Chinese (China) | zh-cn | zh_CN.lproj |
+| Chinese (Hong Kong SAR) | zh-hk | zh_HK.lproj |
+| Chinese (Macau SAR) | zh-mo | zh_MO.lproj |
+| Chinese (Singapore) | zh-sg | zh_SG.lproj |
+| Chinese (Taiwan) | zh-tw | zh_TW.lproj |
