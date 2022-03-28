@@ -34,4 +34,10 @@
 "IMPORT_CUSTOM_SOUND_BUTTON_TITLE" = "Import Custom Sound";
 
 "OPEN_IMPORT_DIRECTORY_TITLE" = "Open Import Directory In Filza";
+
+"TRANSLATION_BUTTON_TITLE" = "Help Translate Tranquil";
+
+"SOURCE_CODE_BUTTON_TITLE" = "View Project Source Code";
+
+"DEPICTION_BUTTON_TITLE" = "View Tranquil Depiction";
 /****************************************************************************/

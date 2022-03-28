@@ -61,10 +61,12 @@
 "BROWN_NOISE" = "Brown Noise";
 "CENTRAL_NOISE" = "Central Noise";
 "GREY_NOISE" = "Grey Noise";
-"INFRA_NOISE" = "Infra Noise";
 "PINK_NOISE" = "Pink Noise";
-"ULTRA_NOISE" = "Ultra Noise";
 "WHITE_NOISE" = "White Noise";
+
+/* downloadable sounds */
+"INFRA_NOISE" = "Infra Noise";
+"ULTRA_NOISE" = "Ultra Noise";
 "FLOWING_STREAM" = "Flowing Stream";
 "LIGHT_RAIN" = "Light Rain";
 "OCEAN_WAVES" = "Ocean Waves";
