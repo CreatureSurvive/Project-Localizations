@@ -13,7 +13,7 @@ It is very simple:
     - Translate each file by changing the text after each `=`
     - Pay attention to special characters such as `\(character), %(character), etc` these need to remain unchanged to ensure formatting works correctly. (Check [special format specifiers](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/Strings/Articles/formatSpecifiers.html) for a complete list)
 - Make a Pull Request with your localizations, or send them to me at [support@creaturecoding.com](mailto:support@creaturecoding.com?subject=Localizations%20(PROJECT_NAME))
-- If you would like credit attribution for your contribution, please include the name and (optional) contact link you would like to be credited with in your email or pull request comment
+- If you would like credit for your contribution, please include the name and (optional) contact link you would like to be credited with in your email or pull request comment
 
 Thank you!
 
@@ -189,7 +189,7 @@ Thank you!
 | Arabic (Morocco) | ar-ma | ar_MA.lproj |
 | Arabic (Oman) | ar-om | ar_OM.lproj |
 | Arabic (Qatar) | ar-qa | ar_QA.lproj |
-| Arabic (Saudi Arabia) | ar-SA | ar_sa.lproj |
+| Arabic (Saudi Arabia) | ar-sa | ar_SA.lproj |
 | Arabic (Syria) | ar-sy | ar_SY.lproj |
 | Arabic (Tunisia) | ar-tn | ar_TN.lproj |
 | Arabic (Yemen) | ar-ye | ar_YE.lproj |
