@@ -1,0 +1,43 @@
+/*
+  Preferences.strings
+  Tranquil
+
+  Created by Dana Buehre on 3/19/22.
+  Translated by Oliver Tzeng on 8/2/22
+ */
+
+/****************************************************************************/
+/* Localization file */
+
+/* settings navigation title */
+"SETTINGS_TITLE" = "Tranquil";
+
+/* settings cells */
+/****************************************************************************/
+"BACKGROUND_SOUNDS_GROUP_FOOTER" = "播放放鬆音樂來隔絕其他噪音，並且達到放鬆的效果"
+"BACKGROUND_SOUNDS_SWITCH_TITLE" = "背景音樂";
+
+"ACTIVE_SOUND_LIST_TITLE" = "聲音";
+"ACTIVE_SOUND_LIST_FOOTER_MESSAGE" = "\n往左滑動來管理下載案導入的聲音\n\n預設的聲音無法重新命名，使用者導入的聲音可被重新命名和刪除";
+
+"VOLUME_SLIDER_TITLE" = "音量";
+
+"USE_WITH_MEDIA_SWITCH_TITLE" = "播放音樂時使用";
+
+"VOLUME_WITH_MEDIA_SLIDER_TITLE" = "使用音樂播放器控制音量";
+
+"PLAY_SAMPLE_BUTTON_LABEL" = "播放範例";
+
+"PAUSE_ON_ROUTE_CHANGE_FOOTER" = "在改變輸出裝置時暫停播放，例如當耳機斷線時將會暫停回放。";
+"PAUSE_ON_ROUTE_CHANGE_SWITCH_TITLE" = "改變輸出時暫停";
+
+"IMPORT_CUSTOM_SOUND_BUTTON_TITLE" = "導入";
+
+"OPEN_IMPORT_DIRECTORY_TITLE" = "在 Filza 開啟導入資料夾";
+
+"TRANSLATION_BUTTON_TITLE" = "幫助翻譯 Tranquil";
+
+"SOURCE_CODE_BUTTON_TITLE" = "開源碼";
+
+"DEPICTION_BUTTON_TITLE" = "關於";
+/****************************************************************************/
