@@ -1,0 +1,50 @@
+/****************************************************************************/
+  Translated by Oliver Tzeng on 8/2/22
+/* Localization file */
+
+/* Application Shortcut Titles */
+"RESPRING_TITLE_KEY" = "重新啟動主畫面";
+"SAFEMODE_TITLE_KEY" = "安全模式";
+"UICACHE_TITLE_KEY" = "清除暫存";
+"LDRESTART_TITLE_KEY" = "軟重啟";
+"REBOOT_TITLE_KEY" = "重新啟動";
+"USREBOOT_TITLE_KEY" = "使用者空間重新啟動";
+"TWEAKINJECT_TITLE_KEY" = "載入插件";
+
+/* Application Shortcut Subtitles */
+"TWEAKINJECT_SUBTITLE_KEY" = "設定是否載入插件來擋越獄偵測";
+"UICACHE_SUBTITLE_KEY" = "重新載入圖示暫存";
+"SAFEMODE_SUBTITLE_KEY" = "「安全」的模式";
+"RESPRING_SUBTITLE_KEY" = "重新啟動主畫面來更新插件設定";
+"LDRESTART_SUBTITLE_KEY" = "軟的重新啟動";
+"REBOOT_SUBTITLE_KEY" = "重新啟動此裝置";
+"USREBOOT_SUBTITLE_KEY" = "假的重新啟動";
+
+/* Application Root Navigation Title */
+"ROOT_NAVIGATION_TITLE_KEY" = "插件";
+"ROOT_NAVIGATION_RIGHT_TITLE_KEY" = "動作";
+"ROOT_NAVIGATION_LEFT_TITLE_KEY" = "設定";
+
+/* Alert Strings */
+"ALERT_CANCEL_TITLE_KEY" = "取消";
+"ALERT_DISMISS_TITLE_KEY" = "確認";
+"ALERT_ACTION_MESSAGE_KEY" = "即將：%@\n\n確定繼續？";
+
+/* App Settings Strings */
+"ALWAYS_SHOW_SEARCH_BAR_NAME_KEY" = "永遠顯示搜尋欄";
+"ALWAYS_SHOW_SEARCH_BAR_GROUP_KEY" = "啟用時，即使在捲動也會一直顯示搜尋欄";
+"REQUIRE_ACTION_CONFIRMATION_NAME_KEY" = "執行動作前詢問";
+"REQUIRE_ACTION_CONFIRMATION_GROUP_KEY" = "啟用時，執行動作之前會向您確認是否繼續執行"
+"LONG_PRESS_OPENS_SETTINGS_NAME_KEY" = "長按來開啟設定";
+"LONG_PRESS_OPENS_SETTINGS_GROUP_KEY" = "啟用時，長按插件標題可在「設定」的應用程式開啟";
+"USE_LARGE_TITLES_ON_ROOT_LIST_NAME_KEY" = "使用大標題";
+"USE_LARGE_TITLES_ON_ROOT_LIST_GROUP_KEY" = "啟用時，老人會稱讚您字很大粉棒";
+"APP_SETTINGS_TITLE_NAME_KEY" = "應用程式設定";
+"SOURCE_CODE_NAME_KEY" = "開源碼";
+"APP_VERSION_NAME_KEY" = "應用程式版本";
+
+/* Check For Update Strings */
+"CHECK_FOR_UPDATES_TITLE_KEY" = "正在檢查更新";
+"CHECK_FOR_UPDATES_ERROR_MESSAGE_KEY" = "發生錯誤，請稍後再試或檢查網路";
+"CHECK_FOR_UPDATES_PASS_MESSAGE_KEY" = "尚無更新，(v%@) 是最新版本";
+"CHECK_FOR_UPDATES_FAIL_MESSAGE_KEY" = "可更新，(v%@) 已釋出";
