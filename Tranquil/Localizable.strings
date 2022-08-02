@@ -1,0 +1,78 @@
+/*
+  Localizable.strings
+  Tranquil
+
+  Created by Dana Buehre on 3/19/22.
+  Translated by Oliver Tzeng on 8/2/22
+*/
+
+/****************************************************************************/
+/* Localization file */
+
+/* project name */
+"PROJECT_NAME" = "Tranquil";
+
+/* open preferences module footer button */
+"PROJECT_SETTINGS_TITLE" = "Tranquil 設定";
+
+/* module list button text, shows when downloads are available */
+"DOWNLOADS_AVAILABLE_TITLE" = "可下載其他音效";
+
+/* preferences sample playback buttons */
+"STOP_SAMPLE_BUTTON_LABEL" = "暫停樣本";
+"PLAY_SAMPLE_BUTTON_LABEL" = "播放樣本";
+
+/* preferences sound list group titles */
+"BUNDLED_GROUP_TITLE" = "預設";
+"IMPORTED_GROUP_TITLE" = "使用者導入";
+"DOWNLOADABLE_GROUP_TITLE" = "可下載";
+
+/* sound import rename alert */
+"RENAME_FILE_TITLE" = "重新命名檔案";
+"RENAME_FILE_MESSAGE" = "您可以自訂名稱，或是維持預設值，這會是您聲音顯示的名稱"
+"RENAME_FILE_ERROR_MESSAGE" = "\"%@\" 無法重新命名為 \"%@\" 因為有無效的輸入值";
+
+/* sound import success alert */
+"IMPORTED_FILE_TITLE" = "導入的檔案";
+"IMPORTED_FILE_MESSAGE" = "\"%@\" 導入成功";
+
+/* sound import failure alert */
+"IMPORTING_FILE_ERROR_TITLE" = "導入檔案時出錯"
+"IMPORTING_FILE_ACCESSIBILITY_ERROR_MESSAGE" = "導入檔案時發生錯誤，可能是因為檔案不存在話是無法存取它"
+
+/* generic error title */
+"GENERIC_ERROR_TITLE" = "發生錯誤";
+
+/* alert action buttons */
+"OKAY_LABEL" = "確認";
+"CANCEL_LABEL" = "取消";
+
+/* active sound menu swipe action titles */
+"SWIPE_ACTION_DELETE_TITLE" = "刪除";
+"SWIPE_ACTION_RENAME_TITLE" = "重新命名";
+
+/* timer status label */
+"TIMER_STATUS_LABEL" = "計時器 %@";
+
+/* volume status label */
+"VOLUME_STATUS_LABEL" = "音量 %d%%";
+
+/* timer states */
+"STATUS_ON" = "開";
+"STATUS_OFF" = "關";
+
+/* packaged sound titles */
+"BALANCED_NOISE" = "平衡噪音";
+"BROWN_NOISE" = "紅噪音";
+"CENTRAL_NOISE" = "綜合噪音";
+"GREY_NOISE" = "灰噪音";
+"PINK_NOISE" = "粉紅色噪音";
+"WHITE_NOISE" = "白噪音";
+
+/* downloadable sounds */
+"INFRA_NOISE" = "次聲波";
+"ULTRA_NOISE" = "超聲波";
+"FLOWING_STREAM" = "河川";
+"LIGHT_RAIN" = "細雨";
+"OCEAN_WAVES" = "海浪";
+"THUNDER_STORM" = "午後雷陣雨";
